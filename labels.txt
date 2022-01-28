@@ -1,0 +1,8 @@
+__ignore__
+_background_
+soft
+black
+scratch
+metal
+edge
+oil

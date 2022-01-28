@@ -1,0 +1,14 @@
+/.cache/
+/.pytest_cache/
+
+/build/
+/dist/
+/*.egg-info/
+
+*.py[cdo]
+datasets_seg
+.DS_Store
+.idea/
+labelme-1024
+out
+.flake8
