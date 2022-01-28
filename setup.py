@@ -8,6 +8,7 @@ import shlex
 import subprocess
 import sys
 
+
 def get_version():
     filename = 'labelme/__init__.py'
     with open(filename) as f:
